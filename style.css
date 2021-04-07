@@ -10,6 +10,8 @@ body {
 }
 
 .half-width {
+  margin-top: 50px;
+  border-radius: 10px;
   height: 570px;
   background: #222436;
   padding: 30px;
